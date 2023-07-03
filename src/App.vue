@@ -251,23 +251,23 @@ export default {
     this.words = [
       "apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "imbe", "jackfruit",
       "kiwi", "lemon", "mango", "nectarine", "orange", "papaya", "quince", "raspberry", "strawberry", "tangerine",
-      "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "yellow ", "zucchini", "apricot", "blueberry", "coconut", "dragonfruit",
+      "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "zucchini", "apricot", "blueberry", "coconut", "dragonfruit",
       "elderflower", "feijoa", "guava", "huckleberry", "indian-prune", "jujube", "kiwifruit", "lime", "mulberry", "nightshade",
       "olive", "pear", "quince", "raisin", "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon", "xigua melon",
-      "yellow ", "zucchini", "apricot", "blueberry", "coconut", "dragonfruit", "elderflower", "feijoa", "guava", "huckleberry",
+      "zucchini", "apricot", "blueberry", "coconut", "dragonfruit", "elderflower", "feijoa", "guava", "huckleberry",
       "indian-prune", "jujube", "kiwifruit", "lime", "mulberry", "nightshade", "olive", "pear", "quince", "raisin",
-      "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "yellow ", "zucchini", "apricot", "blueberry",
+      "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "zucchini", "apricot", "blueberry",
       "coconut", "dragonfruit", "elderflower", "feijoa", "guava", "huckleberry", "indian-prune", "jujube", "kiwifruit", "lime", "mulberry",
       "nightshade", "olive", "pear", "quince", "raisin", "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon",
-      "xigua melon", "yellow ", "zucchini", "apricot", "blueberry", "coconut", "dragonfruit", "elderflower", "feijoa", "guava",
+      "xigua melon", "zucchini", "apricot", "blueberry", "coconut", "dragonfruit", "elderflower", "feijoa", "guava",
       "huckleberry", "indian-prune", "jujube", "kiwifruit", "lime", "mulberry", "nightshade", "olive", "pear", "quince",
-      "raisin", "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "yellow ", "zucchini",
+      "raisin", "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "zucchini",
       "apricot", "blueberry", "coconut", "dragonfruit", "elderflower", "feijoa", "guava", "huckleberry", "indian-prune", "jujube",
       "kiwifruit", "lime", "mulberry", "nightshade", "olive", "pear", "quince", "raisin", "strawberry", "tangerine",
-      "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "yellow ", "zucchini", "apricot", "blueberry", "coconut",
+      "ugli fruit", "vanilla bean", "watermelon", "xigua melon", "zucchini", "apricot", "blueberry", "coconut",
       "dragonfruit", "elderflower", "feijoa", "guava", "huckleberry", "indian-prune", "jujube", "kiwifruit", "lime", "mulberry",
       "nightshade", "olive", "pear", "quince", "raisin", "strawberry", "tangerine", "ugli fruit", "vanilla bean", "watermelon",
-      "xigua melon", "yellow ", "zucchini"
+      "xigua melon", "zucchini"
     ];
   },
 };
