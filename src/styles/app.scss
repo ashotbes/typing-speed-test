@@ -210,6 +210,10 @@ h1 {
   @include mobile-large{
     left: 2.5%;
   }
+
+  @include mobile-small{
+    left: 3.5%;
+  }
 }
 
 .modal-wrapper {
